@@ -1,0 +1,6 @@
+Movie: Shawshank redemption
+TV series: Sherlock
+Food: sorbet
+Season: autumn
+Country: Ireland
+

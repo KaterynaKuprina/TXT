@@ -1,0 +1,6 @@
+Avtomatization
+Jira
+Postman
+API
+SQL
+Git
