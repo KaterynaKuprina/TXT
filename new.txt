@@ -1,0 +1,6 @@
+First name: Kateryna
+Last name: Morhun
+Age: 34
+Pets: seven
+Future salary: 1000$+
+
